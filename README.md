@@ -1,4 +1,5 @@
-# talentxplatform
+
+# talentX platform
 ---
 Contributors 
 * ArthurSHan
