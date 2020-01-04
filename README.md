@@ -1,1 +1,6 @@
 # talentxplatform
+---
+Contributors 
+* ArthurSHan
+* TaewooKim
+---
